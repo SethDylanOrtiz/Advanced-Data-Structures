@@ -1,4 +1,4 @@
-// CS 532, Seth Ortiz, HashTableClassExample, 5/12/2019
+// CS 532, Seth Ortiz, 5/12/2019
 #include <iostream>
 #include <algorithm>
 #include <cstdlib>
